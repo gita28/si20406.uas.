@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Splashscrreen.iml" filepath="$PROJECT_DIR$/.idea/modules/Splashscrreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Splashscrreen.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Splashscrreen.app.iml" />
+    </modules>
+  </component>
+</project>
